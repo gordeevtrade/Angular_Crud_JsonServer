@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "Akagi Shigery",
+      "email": "tradegordeev@gmail.com",
+      "password": "12345Abc"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
